@@ -36,7 +36,7 @@ Unlike traditional spreadsheets and manual recruitment processes, a Recruitment 
 
 Organizations should evaluate candidate management capabilities, automation features, integration options, reporting functionality, scalability and ease of use before selecting a Recruitment CRM.
 
-Check here: https://www.thirdbracket.in/hiring-management-platform
+Check here: [Recruitment CRM](https://www.thirdbracket.in/hiring-management-platform)
 
 ## Explore Talent Intelligence Solutions
 
